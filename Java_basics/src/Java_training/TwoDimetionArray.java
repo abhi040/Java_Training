@@ -1,6 +1,6 @@
 package Java_training;
 
-public class TwoDimetionArray {
+public class TwoDimentionArray {
 
 	public static void main(String[] args) {
 		
